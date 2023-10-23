@@ -1,0 +1,8 @@
+name: AdvancementInteraction
+version: '${project.version}'
+main: me.mats.advancementinteraction.AdvancementInteraction
+api-version: 1.20
+softdepend: [ ProtocolLib ]
+commands:
+  adv_test:
+    description: Just for Testing

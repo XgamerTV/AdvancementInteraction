@@ -1,0 +1,10 @@
+# Ignore all directores and all sub-directories
+data/*/**
+# Ignore all files in current directory
+data/*.*
+# Dont ignore Jars in Plugins Folder except the project jar
+!data/plugins/*.jar
+data/plugins/AdvancementInteraction-1.0-SNAPSHOT.jar
+
+
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AdvancementInteraction:jar">
+    <output-path>$PROJECT_DIR$/../../MinecraftPlugins/1.19Server/plugins</output-path>
+    <root id="archive" name="AdvancementInteraction.jar">
+      <element id="module-output" name="AdvancementInteraction" />
+    </root>
+  </artifact>
+</component>
