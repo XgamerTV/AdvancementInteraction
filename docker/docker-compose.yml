@@ -18,4 +18,6 @@ services:
       ENABLE_WHITELIST: "TRUE"
       ENFORCE_WHITELIST: "TRUE"
       EXEC_DIRECTLY: true
-      MEMORY: 6G
+      INIT_MEMORY: 4G
+      MAX_MEMORY: 6G
+      VIEW_DISTANCE: 20
